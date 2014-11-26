@@ -10,6 +10,7 @@ namespace GitCursusVisualStudio
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hallo");
         }
     }
 }
